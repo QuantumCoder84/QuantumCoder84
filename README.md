@@ -2,7 +2,8 @@
 # About Me
 
 ## Current Role
-I am currently working at Swift AI Labs, where I am integrating DeepSek R1 into our projects. My role involves leveraging advanced AI technologies to create innovative solutions.
+
+I am currently working on a passion project integrating DeepSeek R1 to leverage advanced AI technologies to create innovative solutions.
 
 ## Experience
 I have a diverse background in software development, with a strong focus on blockchain technology and game development. Here are some highlights of my experience:
